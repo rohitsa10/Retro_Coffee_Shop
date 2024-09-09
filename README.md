@@ -2,7 +2,7 @@
 This project aims to implement a Coffee Shop E-commerce portal. A user can buy a particular coffee product and can place an order. The coffee includes the espresso, mocha, Americano, Caffe Latte, etc. The data is taken online from websites about coffee and may or may not be true.
 
 Project Video Link
-> ![Coffee Shop](https://github.com/kapilgautamin/Coffee-Shop/blob/master/CS6314.001-Team11-CoffeeShop.mp4)
+> ![Coffee Shop](https://github.com/rohitsa10/Coffee-Shop/blob/master/CS6314.001-Team11-CoffeeShop.mp4)
 
 
 Languages used for implementation:
@@ -31,26 +31,26 @@ Password : Password@123
 Some Screenshots:
 
 1. Add new Item to MongoDB collection
-![Add new Item](https://github.com/kapilgautamin/Coffee-Shop/blob/master/images_project/add_new_item.PNG)
+![Add new Item](https://github.com/rohitsa10/Coffee-Shop/blob/master/images_project/add_new_item.PNG)
 
 2. Admin user features - Add / Delete / Update
-![Admin user features](https://github.com/kapilgautamin/Coffee-Shop/blob/master/images_project/admin_user_features_pagination.PNG
+![Admin user features](https://github.com/rohitsa10/Coffee-Shop/blob/master/images_project/admin_user_features_pagination.PNG
 )
 
 3. Login Dropdown
-![Login Dropdown](https://github.com/kapilgautamin/Coffee-Shop/blob/master/images_project/login.PNG)
+![Login Dropdown](https://github.com/rohitsa10/Coffee-Shop/blob/master/images_project/login.PNG)
 
 4. Register Dropdown
-![Register Dropdown](https://github.com/kapilgautamin/Coffee-Shop/blob/master/images_project/register.PNG)
+![Register Dropdown](https://github.com/rohitsa10/Coffee-Shop/blob/master/images_project/register.PNG)
 
 5. Search within category and name (interleaved and seperate)
-![Search within category and name](https://github.com/kapilgautamin/Coffee-Shop/blob/master/images_project/search_category_name.PNG)
+![Search within category and name](https://github.com/rohitsa10/Coffee-Shop/blob/master/images_project/search_category_name.PNG)
 
 6. Shopping Cart - Add / Subtract the items
-![Shopping Cart](https://github.com/kapilgautamin/Coffee-Shop/blob/master/images_project/shopping_cart.PNG)
+![Shopping Cart](https://github.com/rohitsa10/Coffee-Shop/blob/master/images_project/shopping_cart.PNG)
 
 7. Update item with soft delete
-![Update Item with soft delete](https://github.com/kapilgautamin/Coffee-Shop/blob/master/images_project/update_item_soft_delete.PNG)
+![Update Item with soft delete](https://github.com/rohitsa10/Coffee-Shop/blob/master/images_project/update_item_soft_delete.PNG)
 
 * Soft delete here means not showing the product in the listing
 * Hard delete here means deleting the product from the database

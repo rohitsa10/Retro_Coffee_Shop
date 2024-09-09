@@ -1,5 +1,5 @@
 const config = require("config");
-const jwtToken = require("jsonwebtoken");
+const jwtToken = require("jsonwebtoken");//"hgfhghhfchdhffhf"
 
 const auth = (req, res, next) => {
   const token = req.header("x-auth-token");

@@ -1,4 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://kapil:kapil123@cluster0-iafly.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoURI" : "mongodb+srv://rohitsa:rohitsa123@cluster0-iafly.mongodb.net/test?retryWrites=true&w=majority",
     "jwtSecret" : "coffee_secret"
 }
